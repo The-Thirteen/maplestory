@@ -7,9 +7,9 @@ A 2D game using HTML5 and JS.
 ## Description
 A game inspired from Nexon's MapleStory.
 
-``This game may be not so cool, there are also some bugs, especially in the loading scene, if the progress stay a long time, please refresh. If I have time, I will recontruct it.``
+``This game may be not so cool, there are also some bugs, especially in the loading scene, if the progress stay a long time, please refresh. If I have time, I will reconstruct it.``
 
-**demo**: [here](https://gq33352190hf8110.github.io/maplestory).
+**demo**: [here](https://the-thirteen.github.io/maplestory).
 
 **__Status__**: __**``still in development.``**__
 
@@ -28,4 +28,4 @@ A game inspired from Nexon's MapleStory.
 
 ###### Copyrights (C) The Thirteen ♥ 2018
 ###### All copyrights are in their respective owner's.
-###### Credits: NEXON's company for their materials/ideas.
+###### Credits: NEXON
